@@ -1,6 +1,6 @@
 ## Aventour_project
 
-Welcome to the **Aventour** registration page project! This repository contains a responsive and interactive web page that allows users to book travel accommodations online with ease.
+Welcome to the **Aventour**  project! This repository contains a responsive and interactive web page that allows users to book travel accommodations online with ease.
 
 ## 🚀 Features
 
